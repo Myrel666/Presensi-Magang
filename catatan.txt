@@ -1,0 +1,2 @@
+Bukti laporan dengan link
+<a href="http://localhost/simagang/app/file/buktilaporan/<?= $view['bukti_file'] ?>" download><?= $view['bukti_file'] ?></a>

@@ -1,0 +1,15 @@
+.select2-selection {
+    height: calc(2.25rem + 2px) !important;
+}
+.select2-selection__arrow {
+    height: calc(2.25rem + 2px) !important;
+}
+
+.disabled:disabled {
+    background-color: #fff !important;
+}
+
+.margin-left{
+    margin-left: 80px !important;
+}
+
